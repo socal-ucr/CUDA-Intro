@@ -11,8 +11,7 @@ $ make
 
 ```
 $ ./hello_world
-
 $ ./first
-
 $ ./3D
+$ ./saxpy
 ```
