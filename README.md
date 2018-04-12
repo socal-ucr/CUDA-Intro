@@ -13,7 +13,7 @@ $ make
 $ ./hello_world
 $ ./first
 $ ./3D
-$ ./saxpy
+$ ./sax
 ```
 
 ## How to profile using nvvp and nvprof
