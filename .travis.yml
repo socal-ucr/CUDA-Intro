@@ -9,7 +9,7 @@ install:
   - nvcc --version
 
 script:
-  - source tests/gate.sh
+  - source gate.sh
 
 notifications:
   slack:
