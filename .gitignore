@@ -8,3 +8,5 @@
 sax
 first
 hello_world
+cublas_mm
+vector_add
