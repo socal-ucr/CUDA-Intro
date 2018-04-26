@@ -6,6 +6,7 @@ all:
 	nvcc sax.cu -o sax
 	nvcc vector_add.cu -o vector_add
 	nvcc cublas_mm.cu -lcublas -o cublas_mm
+	nvcc data_races.cu -o data_races
 
 clean:
-	rm -rf hello_world first 3D sax vector_add cublas_mm
+	rm -rf hello_world first 3D sax vector_add cublas_mm data_races
